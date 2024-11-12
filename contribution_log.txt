@@ -136,3 +136,4 @@ Commit 134 on 2025-03-19T10:08:58: style: Remove unused imports and variables
 Commit 135 on 2025-03-12T16:13:12: fix: Handle edge cases in input validation
 Commit 136 on 2026-03-03T12:21:17: test: Add integration tests for the API endpoints
 Commit 137 on 2024-12-06T11:21:07: test: Add integration tests for the API endpoints
+Commit 138 on 2024-11-12T14:33:59: docs: Update README with new instructions
