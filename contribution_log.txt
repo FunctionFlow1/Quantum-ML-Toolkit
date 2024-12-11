@@ -108,3 +108,4 @@ Commit 106 on 2025-05-02T11:37:34: docs: Update README with new instructions
 Commit 107 on 2025-05-14T09:38:15: docs: Add more examples to the documentation
 Commit 108 on 2025-06-25T12:27:23: feat: Implement new feature for core module
 Commit 109 on 2025-04-23T14:45:15: docs: Clarify API usage in the documentation
+Commit 110 on 2024-12-11T15:40:56: docs: Add more examples to the documentation
