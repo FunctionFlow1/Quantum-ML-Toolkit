@@ -95,3 +95,4 @@ Commit 93 on 2025-08-21T13:07:16: feat: Add support for a new data format
 Commit 94 on 2025-04-07T13:54:46: docs: Add more examples to the documentation
 Commit 95 on 2025-07-21T14:25:50: chore: Update build scripts
 Commit 96 on 2025-04-18T09:29:13: fix: Resolve issue with memory leak
+Commit 97 on 2025-04-02T12:34:17: feat: Implement new feature for core module
