@@ -105,3 +105,4 @@ Commit 103 on 2025-08-25T16:06:20: style: Refactor code for better readability
 Commit 104 on 2025-02-10T16:45:00: test: Add unit tests for new functionality
 Commit 105 on 2025-03-27T09:29:55: chore: Update build scripts
 Commit 106 on 2025-05-02T11:37:34: docs: Update README with new instructions
+Commit 107 on 2025-05-14T09:38:15: docs: Add more examples to the documentation
