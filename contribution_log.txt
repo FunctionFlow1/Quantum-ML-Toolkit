@@ -38,3 +38,4 @@ Commit 36 on 2024-11-06T09:14:17: docs: Clarify API usage in the documentation
 Commit 37 on 2025-10-17T17:28:18: feat: Implement new feature for core module
 Commit 38 on 2025-02-27T14:24:57: fix: Resolve issue with memory leak
 Commit 39 on 2025-11-07T11:31:21: style: Remove unused imports and variables
+Commit 40 on 2025-06-09T13:00:35: test: Add unit tests for new functionality
