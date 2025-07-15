@@ -1,1 +1,2 @@
 Commit 0 on 2025-10-09T09:13:30: style: Remove unused imports and variables
+Commit 1 on 2025-07-15T12:56:53: docs: Update README with new instructions
