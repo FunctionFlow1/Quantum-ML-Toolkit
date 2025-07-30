@@ -9,3 +9,4 @@ Commit 7 on 2026-01-21T12:22:01: feat: Add support for a new data format
 Commit 8 on 2026-03-03T10:59:17: docs: Add more examples to the documentation
 Commit 9 on 2025-08-14T09:49:44: test: Add integration tests for the API endpoints
 Commit 10 on 2026-03-04T16:05:21: refactor: Improve performance of algorithm
+Commit 11 on 2025-07-30T13:39:23: docs: Clarify API usage in the documentation
