@@ -98,3 +98,4 @@ Commit 96 on 2025-04-18T09:29:13: fix: Resolve issue with memory leak
 Commit 97 on 2025-04-02T12:34:17: feat: Implement new feature for core module
 Commit 98 on 2026-01-13T17:54:25: refactor: Improve performance of algorithm
 Commit 99 on 2025-02-19T16:48:56: chore: Update build scripts
+Commit 100 on 2025-08-11T15:17:01: docs: Clarify API usage in the documentation
