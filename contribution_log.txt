@@ -7,3 +7,4 @@ Commit 5 on 2024-12-23T09:14:38: refactor: Improve performance of algorithm
 Commit 6 on 2024-11-08T10:18:07: docs: Update README with new instructions
 Commit 7 on 2026-01-21T12:22:01: feat: Add support for a new data format
 Commit 8 on 2026-03-03T10:59:17: docs: Add more examples to the documentation
+Commit 9 on 2025-08-14T09:49:44: test: Add integration tests for the API endpoints
