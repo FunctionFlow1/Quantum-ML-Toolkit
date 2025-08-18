@@ -219,3 +219,4 @@ Commit 217 on 2025-01-09T10:44:40: refactor: Improve performance of algorithm
 Commit 218 on 2025-08-13T10:29:21: style: Refactor code for better readability
 Commit 219 on 2025-09-17T09:11:48: refactor: Improve performance of algorithm
 Commit 220 on 2024-12-13T14:52:59: docs: Clarify API usage in the documentation
+Commit 221 on 2025-08-18T09:17:39: test: Add unit tests for new functionality
