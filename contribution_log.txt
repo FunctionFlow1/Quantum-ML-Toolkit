@@ -69,3 +69,4 @@ Commit 67 on 2026-01-13T16:16:51: test: Add integration tests for the API endpoi
 Commit 68 on 2025-09-29T16:18:03: style: Apply black formatting to the codebase
 Commit 69 on 2025-06-10T11:25:25: style: Remove unused imports and variables
 Commit 70 on 2025-05-23T13:02:40: test: Add unit tests for new functionality
+Commit 71 on 2025-09-24T11:51:11: docs: Update README with new instructions
