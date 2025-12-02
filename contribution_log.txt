@@ -43,3 +43,4 @@ Commit 41 on 2024-12-20T09:43:14: chore: Update build scripts
 Commit 42 on 2025-09-23T15:39:16: fix: Handle edge cases in input validation
 Commit 43 on 2025-08-12T12:39:53: style: Remove unused imports and variables
 Commit 44 on 2025-08-05T10:11:26: docs: Add more examples to the documentation
+Commit 45 on 2025-12-02T13:29:19: docs: Update README with new instructions
