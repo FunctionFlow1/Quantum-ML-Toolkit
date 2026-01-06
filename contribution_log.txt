@@ -74,3 +74,4 @@ Commit 72 on 2025-11-18T09:00:10: fix: Resolve issue with memory leak
 Commit 73 on 2025-06-09T12:45:16: feat: Implement user authentication
 Commit 74 on 2025-04-04T16:21:48: chore: Update dependencies and configuration
 Commit 75 on 2025-01-21T12:59:54: docs: Add more examples to the documentation
+Commit 76 on 2026-01-06T12:27:57: docs: Clarify API usage in the documentation
