@@ -233,3 +233,4 @@ Commit 231 on 2025-08-01T09:22:57: docs: Update README with new instructions
 Commit 232 on 2026-01-29T09:11:08: fix: Correct bug in data processing pipeline
 Commit 233 on 2024-11-06T11:10:42: test: Add integration tests for the API endpoints
 Commit 234 on 2025-12-09T16:47:15: feat: Implement new feature for core module
+Commit 235 on 2026-02-25T09:18:27: docs: Clarify API usage in the documentation
