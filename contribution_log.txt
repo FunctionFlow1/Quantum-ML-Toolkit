@@ -88,3 +88,4 @@ Commit 86 on 2025-11-28T16:08:49: style: Remove unused imports and variables
 Commit 87 on 2025-03-18T16:31:14: docs: Update README with new instructions
 Commit 88 on 2025-06-30T11:02:40: test: Increase test coverage for critical modules
 Commit 89 on 2025-06-18T16:17:04: chore: Update build scripts
+Commit 90 on 2026-03-02T13:35:38: chore: Update build scripts
