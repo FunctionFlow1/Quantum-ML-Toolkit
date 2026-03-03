@@ -169,3 +169,4 @@ Commit 167 on 2025-02-28T09:00:14: test: Increase test coverage for critical mod
 Commit 168 on 2025-12-18T13:24:28: docs: Add more examples to the documentation
 Commit 169 on 2026-01-21T14:57:44: refactor: Improve performance of algorithm
 Commit 170 on 2025-01-28T09:14:39: docs: Clarify API usage in the documentation
+Commit 171 on 2026-03-03T11:00:32: chore: Update build scripts
